@@ -8,6 +8,7 @@ import genericlibraries.BaseClass;
 public class FristTest extends BaseClass
 {
   @Test 
+  
   public void fristTest()
   {
 	  SoftAssert soft = new SoftAssert();
